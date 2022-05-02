@@ -1,0 +1,19 @@
+{
+  "name": "poc-customactivity1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customActivity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ongstacy65/custom-activity-ui-handler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ongstacy65/custom-activity-ui-handler/issues"
+  },
+  "homepage": "https://github.com/ongstacy65/custom-activity-ui-handler#readme"
+}
